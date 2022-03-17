@@ -1,2 +1,2 @@
-# Front-End-Web-Development
-Front End Web Development Projects using HTML, CSS, and JavaScript
+# Web-Development-Projects
+Front End Web Development Projects using HTML, CSS, Bootstrap, JavaScript, React JS etc.
